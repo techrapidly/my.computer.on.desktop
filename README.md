@@ -1,6 +1,6 @@
 # my computer on desktop
 
-[![my computer on desktop](get-startted.png)](https://github.com/techrapidly/my.computer.on.desktop)
+[![my computer on desktop](get-startted.png)](https://icncomputer.com/my-computer-on-desktop/)
 
 To put the Computer icon on the desktop, click the Start button, and then right-click on “Computer”. Click the “Show on Desktop” item in the menu, and your Computer icon will show up on the desktop.
 
